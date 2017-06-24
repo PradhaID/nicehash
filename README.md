@@ -8,3 +8,4 @@ currency='IDR'; ##currency that you want
 ```
 
 Screen Shoot :
+![Alt text](https://github.com/adityudhna/nicehash/blob/master/NiceHash%20Viewer.png "NiceHash Viewer")
